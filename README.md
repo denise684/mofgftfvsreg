@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/4channel/4channel/assets/55726542/19b0ab72-10b0-4bd2-87f7-2a4dd038fb6f" alt="Description of image" />
+  <img src="[https://github.com/4channel/4channel/assets/55726542/19b0ab72-10b0-4bd2-87f7-2a4dd038fb6f](https://github.com/denise684/mofgftfvsreg/assets/172080406/7b85f0ae-c00a-4416-b9ea-c6b8f1a82038)" alt="Description of image" />
 </p>
 
 
